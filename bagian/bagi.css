@@ -1,0 +1,508 @@
+@font-face {
+    font-family: "iransens";
+    src: url(./fonts/Sans\ a4fran3.eot);
+    src: url(../fonts/Yekan.eot?#iefix) format("embedded-opentype"), url(./fonts/Sans\ a4fran3.woff) format("woff"), url(./fonts/Sans\ a4fran3.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    unicode-range: U+0600-U+06FF;
+    /* For Persian character range */
+}
+
+body {
+    font-family: "iransens";
+    direction: rtl;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.header {
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-image: url(./img/304bd3fd7dab4e2c9ebd83620bf6e8aa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.mnu {
+    width: 100%;
+    height: 90px;
+}
+
+.img1 {
+    padding-top: 30px;
+    padding-right: 100px;
+}
+
+.p0 {
+    margin-top: -25px;
+    padding-right: 150px;
+    color: white;
+    font-size: 20px;
+}
+
+/* hedaer1 */
+/* ......................................................... */
+.listmnu ul {
+    padding-top: 30px;
+}
+
+.listmnu li {
+    padding: 24px 10px;
+    display: inline;
+    text-align: center;
+}
+
+.listmnu a {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+
+.listmnu a:hover {
+    padding: 27px 10px;
+    border-top: 5px solid rgb(0, 153, 109);
+}
+
+.khone {
+    border-top: 5px solid rgb(0, 153, 109);
+}
+
+.tamas {
+    float: right;
+    margin-top: 30px;
+}
+
+.shomare {
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 50px;
+    padding-bottom: 5px;
+    text-align: center;
+    background-color: rgb(0, 153, 109);
+    color: white;
+    border-radius: 25px;
+    border-color: rgb(0, 153, 109);
+}
+
+.shomarew {
+    float: left;
+    padding-right: 15px;
+}
+
+/* section1 */
+/* .......................................................................... */
+.box1 {
+    float: left;
+    margin-top: 200px;
+}
+
+.p1 {
+    color: white;
+}
+
+.p2 {
+    width: 330px;
+    color: white;
+    font-size: 15px;
+    text-align: justify;
+    line-height: 30px;
+    padding-top: 30px;
+}
+
+.botton {
+    padding-top: 30px;
+}
+
+.but1 {
+    padding-top: 5px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+
+}
+
+.but1:hover {
+    background-color: rgb(0, 153, 109);
+    border-color: rgb(0, 153, 109);
+}
+
+.boteh {
+    width: 100%;
+    height: 100%;
+    margin-top: 100px;
+    float: left;
+}
+
+/* section1 */
+/* ................................................................ */
+.section1 {
+    margin-top: 150px;
+    text-align: center;
+}
+
+
+.p3 {
+    padding-left: 340px;
+    font-size: 20px;
+}
+
+.p4 {
+
+    font-size: 25px;
+    color: rgb(0, 153, 109);
+
+}
+
+.p5 {
+    font-size: 14px;
+    padding-top: 50px;
+    color: #444444;
+}
+
+/* section2 */
+/* ..........................................................*/
+.section2 {
+    margin-top: 100px;
+}
+
+.sec4 {
+    width: 300px;
+    height: auto;
+    float: left;
+}
+
+.sec5 {
+    width: 300px;
+    height: auto;
+    margin: auto;
+    margin-top: 250px;
+}
+
+.sec6 {
+    width: 300px;
+    height: auto;
+    float: right;
+    margin-top: 150px;
+}
+
+/* ........................ */
+.p6 {
+    color: black;
+    font-size: 20px;
+}
+
+.p7 {
+    width: 250px;
+    text-align: justify;
+    color: #444444;
+    font-size: 14px;
+    padding-top: 20px;
+    line-height: 30px;
+    padding-bottom: 30px;
+}
+
+
+.p8 {
+
+    color: black;
+    font-size: 20px;
+}
+
+
+.p9 {
+    width: 250px;
+    text-align: justify;
+    color: #444444;
+    font-size: 14px;
+    padding-top: 20px;
+    line-height: 30px;
+    padding-bottom: 30px;
+}
+
+
+
+.p10 {
+    color: black;
+    font-size: 20px;
+}
+
+
+.p11 {
+    width: 250px;
+    text-align: justify;
+    color: #444444;
+    font-size: 14px;
+    padding-top: 20px;
+    line-height: 30px;
+    padding-bottom: 30px;
+}
+
+/* section3 */
+/* .......................................................................... */
+.section3 {
+    margin-top: 50px;
+    background-color: rgb(37, 88, 82);
+}
+
+.sec7 {
+    padding-top: 180px;
+    text-align: center;
+}
+
+.sec8 {
+    padding-top: 200px;
+}
+
+.p12 {
+    font-size: 22px;
+    color: white;
+    padding-left: 250px;
+}
+
+.p13 {
+    font-size: 28px;
+    color: white;
+}
+
+.berg {
+    background-repeat: no-repeat;
+}
+
+.p14 {
+    width: 450px;
+    line-height: 30px;
+    text-align: justify;
+    color: white;
+    font-size: 17px;
+}
+
+.p15 {
+    width: 450px;
+    line-height: 30px;
+    text-align: justify;
+    padding-top: 30px;
+    color: white;
+    font-size: 14px;
+}
+
+.p16 {
+    width: 450px;
+    line-height: 30px;
+    text-align: justify;
+    padding-top: 30px;
+    color: white;
+    font-size: 14px;
+}
+
+.btt {
+    padding: 5px 25px;
+    margin-top: 50px;
+    border-radius: 25px;
+    background-color: rgb(37, 88, 82);
+    color: white;
+    margin-bottom: 30px;
+}
+
+.btt:hover {
+    background-color: rgb(0, 153, 109);
+    border-color: rgb(0, 153, 109);
+}
+
+/* section4 */
+/* .............................................................. */
+.sazhe1 {
+
+    margin-top: 40px;
+}
+
+.p17 {
+    font-size: 20px;
+}
+
+.p18 {
+    font-size: 25px;
+    color: rgb(0, 153, 109);
+    padding-top: 30px;
+}
+
+.p19 {
+    font-size: 22px;
+    padding-top: 150px;
+}
+
+.p20 {
+    width: 400px;
+    font-size: 14px;
+    color: #444444;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.soton {
+    margin-top: 300px;
+    float: right;
+}
+
+.span00 {
+    padding-top: 50px;
+}
+
+.spn1 {
+    padding-right: 20px;
+    color: rgb(0, 153, 109);
+}
+
+.spn2 {
+    padding-right: 20px;
+    color: rgb(0, 153, 109);
+}
+
+.spn3 {
+    padding-right: 20px;
+    color: rgb(0, 153, 109);
+}
+
+/* section5 */
+/* ............................................................. */
+.golkhne {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.golkhone {
+    margin-top: 180px;
+}
+
+.p24 {
+    font-size: 22px;
+}
+
+.p25 {
+    width: 400px;
+    font-size: 14px;
+    color: #444444;
+    padding-top: 30px;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.span01 {
+    padding-top: 40px;
+}
+
+/* section6 */
+/* .......................................................... */
+.gol {
+    margin-top: 150px;
+}
+
+.p29 {
+    font-size: 22px;
+}
+
+.p30 {
+    width: 400px;
+    font-size: 14px;
+    color: #444444;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.span02 {
+    padding-top: 40px;
+}
+
+.goltibi {
+    margin-top: 100px;
+}
+
+/* section7 */
+/* .............................................................................. */
+.modirit {
+    text-align: center;
+    margin-top: 70px;
+}
+
+.modbutt {
+    padding: 5px 20px;
+    border: 1px solid black;
+    border-radius: 25px;
+    font-size: 14px;
+    background-color: white;
+}
+.modbutt:hover{
+    background-color:rgb(0, 153, 109) ;
+    border-color:rgb(0, 153, 109) ;
+    color: white;
+}
+
+.m001 {
+    width: 400px;
+    margin: auto;
+    font-size: 15px;
+    padding-top: 150px;
+    text-align: justify;
+    line-height: 35px;
+    
+}
+
+.m002 {
+    padding-top: 30px;
+    font-size: 20px;
+    color:rgb(0, 153, 109) ;
+}
+
+.m003 {
+    font-size: 15px;
+    color: #444444;
+}
+.bearg2{
+    padding-top: 250px;
+    background-repeat: no-repeat;
+    
+}
+.bearg1{
+    background-repeat: no-repeat;
+    padding-top:130px ;
+}
+/* footer */
+/* ---------------------------------------------------------------------------- */
+.footer{
+    width: 100%;
+    height: auto;
+    position: relative;
+    background-image: url(./img/7a5cf9c679014d22bd10c4460bd74216.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+
+}
+.foot{
+    padding-top: 800px;
+    text-align: center;
+}
+.f01{
+    font-size: 30px;
+}
+.f02{
+    padding-top: 40px;
+    font-size: 17px;
+    line-height: 40px;
+}
+.f03{
+    padding-top: 80px;
+    font-size: 15px;
+}
+
+.foter{
+    text-align: center;
+    margin-top:800px;
+}
+.f05{
+    padding-top: 10px;
+}
